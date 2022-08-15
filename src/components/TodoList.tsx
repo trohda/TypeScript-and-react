@@ -1,5 +1,3 @@
-import React from "react";
-
 interface TodoListPRops {
   items: { id: string; text: string }[];
 }
